@@ -1,0 +1,7 @@
+C:\Users\mauri\source\repos\WBCCGC\WBCCGC\bin\Debug\WBCCGC.exe.config
+C:\Users\mauri\source\repos\WBCCGC\WBCCGC\bin\Debug\WBCCGC.exe
+C:\Users\mauri\source\repos\WBCCGC\WBCCGC\bin\Debug\WBCCGC.pdb
+C:\Users\mauri\source\repos\WBCCGC\WBCCGC\obj\Debug\WBCCGC.csprojAssemblyReference.cache
+C:\Users\mauri\source\repos\WBCCGC\WBCCGC\obj\Debug\WBCCGC.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\WBCCGC\WBCCGC\obj\Debug\WBCCGC.exe
+C:\Users\mauri\source\repos\WBCCGC\WBCCGC\obj\Debug\WBCCGC.pdb
